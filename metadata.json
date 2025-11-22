@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cat Hunt",
+  "description": "An interactive, AI-powered game for cats. Features procedural movement, custom toys, and high-performance canvas rendering.",
+  "requestFramePermissions": []
+}
